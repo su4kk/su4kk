@@ -1,5 +1,5 @@
-## Hi I am Surendra \n
-I am currently Studying Dual Degree(B.tech+Ms by reserach) in IIIT.
+## Hi I am Surendra 
+#I am currently Studying Dual Degree(B.tech+Ms by reserach) in IIIT.
 I am interested in soeech(Text to speech)
 I am currently working on computer vision in robotics.
 Email:vundela.reddy@research.iiit.ac.in
